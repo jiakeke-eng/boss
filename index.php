@@ -1,6 +1,6 @@
 
 <?php
 
-echo 'hello word222';
+echo 'hello word2';
 
 
