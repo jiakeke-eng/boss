@@ -1,3 +1,6 @@
+
 <?php
-echo 'hello word';
+
+echo 3333;
+
 
