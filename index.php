@@ -1,6 +1,6 @@
 
 <?php
 
-echo 2222;
+echo 'hello word';
 
 
