@@ -1,6 +1,6 @@
 
 <?php
 
-echo 'hello word2';
+echo '2222';
 
 
