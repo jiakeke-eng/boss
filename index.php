@@ -1,7 +1,6 @@
 
 <?php
-
-echo '1';
+echo '3';
 echo 'update01';
 echo 'update02';
 echo 'update03';
