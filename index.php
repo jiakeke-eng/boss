@@ -1,7 +1,7 @@
 
 <?php
 
-echo '2222';
+echo '2';
 echo 'update01';
 echo 'update02';
 echo 'update03';
